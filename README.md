@@ -1,3 +1,6 @@
+Project ID: SPS_PRO_99
+Internship Title: Intelligent Customer Help Desk with Smart Document Understanding - SB24238
+Application_id: SPS_APL_20200001125	
 Intelligent Customer Help Desk With Smart Document Understanding
 Category: Artificial Intelligence
 
