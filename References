@@ -1,0 +1,2 @@
+RICH HAGARTY: YOUTUBE: https://youtu.be/-yniuX-Poyw GITHUB: https://github.com/ibm/watson-discovery-sdu-with-assistant
+"<?$webhook_result_1.passages[0].passage_text?>"   use this in the dialog when you create the intent to get only the passage instead of the json results.
